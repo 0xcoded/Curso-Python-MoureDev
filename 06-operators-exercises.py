@@ -44,5 +44,3 @@ print(((5*3) + 2) > 10 and ((5*3) + 2) < 20)
 17<20, True
 True and True => True
 '''
-
-print(10%3 + 4 ** 2)
